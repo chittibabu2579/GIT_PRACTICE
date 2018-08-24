@@ -1,6 +1,7 @@
 <Order>
  <Id>123</Id>
  <OrderItem>
-  <Id>12345</Id>
+	 <Id>12345</Id>
+	 <Status>Completed</Status>
  </OrderItem>
 <Order>
